@@ -64,7 +64,7 @@ Curriculum Detail: https://www.freecodecamp.org/learn/machine-learning-with-pyth
 
 Curriculum Detail: https://www.freecodecamp.org/learn/relational-database
 
-**Certification**: _In Progress_
+**Certification**: https://www.freecodecamp.org/certification/6SL3PT/relational-database-v8
 
 -   relational_database
     -   **universe**: [Celestial Bodies Database](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database) Project
